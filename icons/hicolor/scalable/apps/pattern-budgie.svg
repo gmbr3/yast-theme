@@ -27,9 +27,9 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title></dc:title>
 		<dc:creator>
-		 <cc:Agent>
-		  <dc:title>Original work by Yuri Henrique, modified by Solus.</dc:title>
-		 </cc:Agent>
+		<cc:Agent>
+		<dc:title>Original work by Yuri Henrique, modified by Solus.</dc:title>
+		</cc:Agent>
 		</dc:creator>
 		<dc:source>http://getsol.us/branding/</dc:source>
 		<cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
