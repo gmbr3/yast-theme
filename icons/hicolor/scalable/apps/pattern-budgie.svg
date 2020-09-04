@@ -26,15 +26,15 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title></dc:title>
-	<dc:creator>
-	<cc:Agent>
-	<dc:title>Original work by Yuri Henrique, modified by Solus.</dc:title>
-	</cc:Agent>
-	</dc:creator>
-	<dc:source>http://getsol.us/branding/</dc:source>
-	<cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+		<dc:creator>
+		<cc:Agent>
+		<dc:title>Original work by Yuri Henrique, modified by Solus.</dc:title>
+		</cc:Agent>
+		</dc:creator>
+		<dc:source>http://getsol.us/branding/</dc:source>
+		<cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
       </cc:Work>
-      <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+	  <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
       <cc:permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
       <cc:permits rdf:resource="http://web.resource.org/cc/Distribution"/>
       <cc:requires rdf:resource="http://web.resource.org/cc/Notice"/>
